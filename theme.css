@@ -66,8 +66,6 @@ body {
   --lotusRed: #c84053; --lotusRed2: #d7474b; --lotusRed3: #e82424; --lotusRed4: #d9a594;
   --lotusAqua: #597b75; --lotusAqua2: #5e857a;
   --lotusTeal1: #4e8ca2; --lotusTeal2: #6693bf; --lotusTeal3: #5a7785; --lotusCyan: #d7e3d8;
-  --font-text-theme: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  --font-monospace-theme: 'Hack Nerd Font', 'Source Code Pro', ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
 }
 
 /* ── Wave (dark default) ── */
@@ -905,7 +903,7 @@ ul ul {
 ul ul::before {
   content: "";
   border-left: 1px solid;
-  color: var(--color-cyan);
+  color: #92CDD6;
   position: absolute;
 }
 
@@ -922,7 +920,7 @@ ul ul::before {
 }
 
 .cm-s-obsidian span.cm-formatting-list {
-  color: var(--color-cyan);
+  color: #8abeb7;
 }
 
 ol {
