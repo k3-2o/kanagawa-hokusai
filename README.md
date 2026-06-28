@@ -46,7 +46,7 @@ Switch between Wave and Dragon in dark mode via the [Style Settings](https://git
 
 - **3 full variants** — Wave, Dragon, Lotus — each with complete palette coverage
 - **Style Settings integration** — switch dark variants, configure fonts
-- **Faithful to source — color mappings follow kanagawa.nvim's semantic schema
+- **Faithful to source** — color mappings follow kanagawa.nvim's semantic schema
 
 ## Credits
 
